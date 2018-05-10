@@ -1,0 +1,64 @@
+{
+  "name": "root",
+  "value": 21.1,
+  "childList": [
+    {
+      "name": "nodeA",
+      "value": 1.0
+    },
+    {
+      "name": "nodeB",
+      "value": 14.0,
+      "childList": [
+        {
+          "name": "nodeC",
+          "value": 2.0
+        },
+        {
+          "name": "nodeD",
+          "value": 3.0
+        },
+        {
+          "name": "nodeE",
+          "value": 4.0,
+          "childList": [
+            {
+              "name": "nodeF",
+              "value": 4.0
+            }
+          ]
+        },
+        {
+          "name": "nodeG",
+          "value": 5.0,
+          "childList": [
+            {
+              "name": "nodeH",
+              "value": 5.0,
+              "childList": [
+                {
+                  "name": "nodeI",
+                  "value": 5.0
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "nodeC1",
+      "value": 6.1,
+      "childList": [
+        {
+          "name": "nodeC2",
+          "value": 6.1
+        }
+      ]
+    },
+    {
+      "name": "nodeD1",
+      "value": 0.0
+    }
+  ]
+}
