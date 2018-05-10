@@ -1,0 +1,19 @@
+<root>
+    <nodeA>Node 1</nodeA>
+    <nodeB>
+        <nodeC>Node 2</nodeC>
+        <nodeD>Node 3</nodeD>
+        <nodeE>
+            <nodeF>Node 4</nodeF>
+        </nodeE>
+        <nodeG>
+            <nodeH>
+                <nodeI>Node 5</nodeI>
+            </nodeH>
+        </nodeG>
+    </nodeB>
+    <nodeC1>
+    	<nodeC2>Node 6.1</nodeC2>
+    </nodeC1>
+    <nodeD1></nodeD1>
+</root>
